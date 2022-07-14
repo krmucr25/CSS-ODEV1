@@ -1,0 +1,24 @@
+.k {
+    text-align: center;
+}
+
+.resimler {
+    text-align: center;
+}
+
+ul {
+    display: inline;
+    list-style-position: inside;
+    color: green;
+}
+
+ol {
+    display: inline;
+    list-style-position: inside;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+
+}
